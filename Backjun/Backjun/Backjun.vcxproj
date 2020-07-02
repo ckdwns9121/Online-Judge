@@ -147,6 +147,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1026-보물.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1065-한수.c" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\10799-쇠막대기.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1100-더하기사이클.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\11271-2xn타일링2.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\11279-최대힙.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1149-RGB거리.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1152-단어의개수.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\11726-2xn타일링.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1193-분수찾기.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1427-소트인사이드.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\14852-타일채우기.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1699-제곱수의합.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1712-손익분기점.c" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1920-이진탐색.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1920-이진탐색2.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1927-최소힙.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\1932-정수삼각형.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2133-타일채우기.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2164-카드2.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2167-2차원배열의합.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2179-미로탐색.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2231-분해합.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2247-별찍기10.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2292-벌집.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2309-일곱난쟁이.c" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2476.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2503-숫자야구.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2747-피보나치수열.c" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2750-수정렬하기.c" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2776-암기왕.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2839-설탕배달.C" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\2869-달팽이는 올라가고싶다.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Online-Judge\backjun\9059-1,2,3,더하기.cpp" />
     <ClCompile Include="Backjun.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
